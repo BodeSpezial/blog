@@ -1,0 +1,5 @@
+baseURL = "http://kwbode.uber.space/"
+languageCode = "en-us"
+title = "Konstantin Bode"
+theme = "bode"
+
