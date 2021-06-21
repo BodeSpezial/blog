@@ -1,5 +1,11 @@
 baseURL = "http://kwbode.uber.space/"
-languageCode = "en-us"
 title = "Konstantin Bode"
 theme = "bode"
 
+defaultContentLanguage = "en"
+
+[languages]
+    [languages.en]
+    weight=1
+    [languages.de]
+    weight=2
