@@ -8,5 +8,7 @@ defaultContentLanguage = "en"
 [languages]
     [languages.en]
     weight=1
+    flag=":uk:"
     [languages.de]
     weight=2
+    flag=":de:"
