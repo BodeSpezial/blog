@@ -1,6 +1,7 @@
 baseURL = "http://kwbode.uber.space/"
 title = "Konstantin Bode"
 theme = "bode"
+enableEmoji = true
 
 defaultContentLanguage = "en"
 
