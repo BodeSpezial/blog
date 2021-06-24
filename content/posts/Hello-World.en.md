@@ -5,11 +5,13 @@ lang: en
 tags: [banter]
 ---
 
-Maybo I'll stick to it this time.
-After about 1,5 years now I'm once again trying to start a blog. At least the times between the abandaning of one blog and the kick-off of a new one are getting smaller.
+Maybe I'll stick to it this time.
+After about 1,5 years now I'm once again trying to start a blog. At least the times between the abandoning of one blog and the kick-off of a new one are getting smaller.
 
 ## The plan
-That's mainly tracable back to my discipline - or more precisely the lack of it.
+
+For now I didn't really manage to keep a blog alive.
+That's mainly traceable back to my discipline - or more precisely the lack of it.
 So this time I'm planning on writing at least one post per month. I hope to get a habit created that way. If that works I can still gradually increase the amount of posts.
 
 ## What to expect?
