@@ -1,8 +1,10 @@
 #!/bin/sh
 
 # clean up the build folder
-echo "clean public folder"
-rm -rf public
+if [ -d "public" ]; then
+    echo "clean public folder"
+    rm -rf public
+fi
 
 # build the site
 echo "build website"
