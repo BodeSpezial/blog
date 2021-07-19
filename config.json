@@ -1,0 +1,14 @@
+{
+    "baseURL": "https://kbode.eu/",
+    "title": "Konstantin Bode",
+    "theme": "bode",
+    "enableEmoji": true,
+
+    "defaultContentLanguage": "en",
+
+    "languages": {
+        "en": { "weight": 1, "flag": ":uk:" },
+        "de": { "weight": 1, "flag": ":uk:" }
+    },
+    "minify": { "disableCss": true }
+}
