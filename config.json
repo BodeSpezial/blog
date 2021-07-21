@@ -10,5 +10,14 @@
         "en": { "weight": 1, "flag": ":uk:" },
         "de": { "weight": 1, "flag": ":de:" }
     },
+
+    "params": {
+        "navigation": [
+            { "url": "/", "title": "home" },
+            { "url": "/now", "title": "now" },
+            { "url": "/about", "title": "about" }
+        ]
+    },
+
     "minify": { "disableCss": true }
 }
