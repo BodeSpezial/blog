@@ -8,7 +8,7 @@
 
     "languages": {
         "en": { "weight": 1, "flag": ":uk:" },
-        "de": { "weight": 1, "flag": ":uk:" }
+        "de": { "weight": 1, "flag": ":de:" }
     },
     "minify": { "disableCss": true }
 }
