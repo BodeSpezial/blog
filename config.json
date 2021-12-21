@@ -14,6 +14,8 @@
     "params": {
         "navigation": [
             { "url": "/", "title": "home" },
+            { "url": "/movies", "title": "movies" },
+            { "url": "/books", "title": "books" },
             { "url": "/now", "title": "now" },
             { "url": "/about", "title": "about" }
         ]
